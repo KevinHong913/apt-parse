@@ -41,7 +41,7 @@ grpcio-1.6.3.dist-info/RECORD,,
 grpcio-1.6.3.dist-info/WHEEL,sha256=-cgT0HtDy6AffMc7Hk3Iu8uX1-7iEvx4aSCina77AEI,110
 grpcio-1.6.3.dist-info/metadata.json,sha256=R0IiU1s4YUCPFRd0tDv4MO_oiHveWRu8NFtLqZf_1Qk,971
 grpcio-1.6.3.dist-info/top_level.txt,sha256=eEd2Jq_aVQFp38bWW8Pfwjz_5iibqeOFT-2zXlPAq_8,5
-grpcio-1.6.3.dist-info/INSTALLER,sha256=zuuue4knoyJ-UwPPXg8fezS7VCrXJQrAP7zeNuwvFQg,4
+/var/folders/ff/xjrx992j4nd9w1xy4g7lclzm0000gr/T/tmpWR1Gkm/lib/python/grpcio-1.6.3.dist-info/INSTALLER,sha256=zuuue4knoyJ-UwPPXg8fezS7VCrXJQrAP7zeNuwvFQg,4
 grpc/framework/foundation/stream.pyc,,
 grpc/framework/foundation/abandonment.pyc,,
 grpc/beta/__init__.pyc,,

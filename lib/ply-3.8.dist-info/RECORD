@@ -5,12 +5,12 @@ ply/lex.py,sha256=vNquS8ghLQV8zIUUiXDGgCHiru_UONIvAQulELYuFdU,42889
 ply/yacc.py,sha256=bfaaw5G1TlmyBFie8eaW9xciGHHPn7LxYDQd6MXDeOA,135805
 ply/ygen.py,sha256=2JYNeYtrPz1JzLSLO3d4GsS8zJU8jY_I_CR1VI9gWrA,2251
 ply-3.8.dist-info/DESCRIPTION.rst,sha256=BiDiIkqNV6b8fB9nbnb6QIr6FBLSP5mRbuEyOZauIn0,518
-ply-3.8.dist-info/METADATA,sha256=_6a72-B5l6eobsrZP9WH67ZOLUeqGSBlHM7XQPkPBF8,842
+ply-3.8.dist-info/METADATA,sha256=1iGUmQEn6kAFCMOji9LQJ-rF0r4tY-m5luZEKzZWYRM,808
 ply-3.8.dist-info/RECORD,,
-ply-3.8.dist-info/WHEEL,sha256=kdsN-5OJAZIiHN-iO4Rhl82KyS0bDWf4uBwMbkNafr8,110
-ply-3.8.dist-info/metadata.json,sha256=nCeyZNJ-Dj4AOIAEGIYI4XO6cSAF-xHYwS15tz7KNXs,514
+ply-3.8.dist-info/WHEEL,sha256=GrqQvamwgBV4nLoJe0vhYRSWzWsx7xjlt74FT0SWYfE,110
+ply-3.8.dist-info/metadata.json,sha256=otfxVlSlJsh1TjND192EAlqGniuXi1U8dSqrooVqn-U,475
 ply-3.8.dist-info/top_level.txt,sha256=gDYBHRQ7Vy0tY0AjXyJtadvU2LDaOsHqhhV70AGsisc,4
-ply-3.8.dist-info/INSTALLER,sha256=zuuue4knoyJ-UwPPXg8fezS7VCrXJQrAP7zeNuwvFQg,4
+/var/folders/ff/xjrx992j4nd9w1xy4g7lclzm0000gr/T/tmpWR1Gkm/lib/python/ply-3.8.dist-info/INSTALLER,sha256=zuuue4knoyJ-UwPPXg8fezS7VCrXJQrAP7zeNuwvFQg,4
 ply/__init__.pyc,,
 ply/yacc.pyc,,
 ply/cpp.pyc,,

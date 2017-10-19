@@ -4,7 +4,7 @@
 # [START imports]
 import logging
 from flask import Flask, render_template, request
-from google.appengine.ext import ndb
+# from google.appengine.ext import ndb
 # [END imports]
 
 # Import SQLAlchemy
@@ -22,7 +22,6 @@ app.config.from_object('config')
 def form():
     return render_template('form.html')
 # [END form]
-
 
 # [START submitted]
 @app.route('/submitted', methods=['POST'])
@@ -42,7 +41,6 @@ def submitted_form():
         comments=comments)
     # [END render_template]
 
-
 @app.errorhandler(500)
 def server_error(e):
     # Log the error and stacktrace.
@@ -50,20 +48,7 @@ def server_error(e):
     return 'An internal error occurred.', 500
 
 
-class Task(ndb.Model):
-    description = ndb.StringProperty()
-    done = ndb.BooleanProperty()
+from app.mod_posts.controller import mod_posts as posts_module
+# import mod_posts as posts_module
 
-
-@app.route('/datastore')
-def run_datastore():
-    # [START datastore_quickstart]
-    # Imports the Google Cloud client library
-
-    task = Task(
-        description='Sandy', done=False)
-    task.put()
-
-    return render_template('form.html')
-# if __name__ == '__main__':
-#   run_datastore()
+app.register_blueprint(posts_module, url_prefix="/posts")

@@ -6,7 +6,6 @@ Home-page: https://github.com/googleapis/gax-python
 Author: Google API Authors
 Author-email: googleapis-packages@google.com
 License: BSD-3-Clause
-Description-Content-Type: UNKNOWN
 Platform: UNKNOWN
 Classifier: Development Status :: 3 - Alpha
 Classifier: Intended Audience :: Developers
@@ -17,9 +16,9 @@ Classifier: Programming Language :: Python :: 2.7
 Classifier: Programming Language :: Python :: Implementation :: CPython
 Requires-Dist: future (>=0.15.2)
 Requires-Dist: grpcio (>=1.0.0)
+Requires-Dist: oauth2client (>=1.5.2)
 Requires-Dist: ply (==3.8)
 Requires-Dist: protobuf (>=3.0.0)
-Requires-Dist: oauth2client (>=1.5.2)
 
 Google API Extensions for Python
 ================================

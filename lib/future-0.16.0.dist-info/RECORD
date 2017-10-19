@@ -149,11 +149,11 @@ future/types/newstr.py,sha256=bwFWxmDJ9pLP5hNCpmjYQ6aQcf0psUftxB3umby7Qng,15190
 future/utils/__init__.py,sha256=Rs-wkMkrxErB_m5xfoPxmKZBbp5ajCh48q7TktTVZ4s,20238
 future/utils/surrogateescape.py,sha256=WohIsb4hPES96EgSBalzpldBffjGlLJT8Z_OnybAdq8,6084
 future-0.16.0.dist-info/DESCRIPTION.rst,sha256=S-KJ3tT0MohQ6FAjdCIzX3bKoHd4bEzCVveQq5IJiEY,2639
-future-0.16.0.dist-info/METADATA,sha256=xcjmLzP3oTW9-_LxGgbtGWmQdX8YvEVTvk9lTKeeRdE,3514
+future-0.16.0.dist-info/METADATA,sha256=sfX_zUk7v-KY1sWN3hfI3GuLpZ-2ZkfQhGl_enlwf4c,3480
 future-0.16.0.dist-info/RECORD,,
-future-0.16.0.dist-info/WHEEL,sha256=F38j99qfcoNzHo88G-kisXWtI3MVVEd9JWjaAPcHMTc,93
+future-0.16.0.dist-info/WHEEL,sha256=1MCSHS6HDHLQ4wIeJBIjjA5GPDLnYZX2HFlkttwBvUE,93
 future-0.16.0.dist-info/entry_points.txt,sha256=-ATQtLUC2gkzrCYqc1Twac093xrI164NuMwsRALJWnM,89
-future-0.16.0.dist-info/metadata.json,sha256=BA9fSii73jTAmqUq5wxBR9I6klNUKhovnk7cTFkoM2Q,1294
+future-0.16.0.dist-info/metadata.json,sha256=cDzGiBSolz7l7NQJR7UxNGwQAgwwA5lSwICwTopK26M,1255
 future-0.16.0.dist-info/top_level.txt,sha256=FeMOZFDhPdQ7-OS54GrX6l-U-WxUqVqO7i1sSXHbdkU,148
 html/__init__.py,sha256=tYP_EBms51UOZkx8Hbud4fhkDY70L8Z0nkXwXKNeP8Y,362
 html/entities.py,sha256=tv5rW4wfFnke2ULqiuKhB4CTyAzmTpYf7j5l5j8LLXA,160
@@ -247,9 +247,9 @@ winreg/__init__.py,sha256=JuX4_LacOg48xmn0oERhWRtqHKTu5FPTSERX3b4IEBk,377
 xmlrpc/__init__.py,sha256=cuI7TcJ1aevAtq79-IIox_ohWc4ZvsA_xDG4GVd1KT8,335
 xmlrpc/client.py,sha256=S14IklVTxdFPcsX8s1qYP50FbjVuKAaz63jcg9Vb7zs,106
 xmlrpc/server.py,sha256=S14IklVTxdFPcsX8s1qYP50FbjVuKAaz63jcg9Vb7zs,106
-../../bin/pasteurize,sha256=14MrNU3aD61EdhbNB0-PjkNLJiwLfZ-UGstCnfMWLzs,249
-../../bin/futurize,sha256=9WbnmAqgRHW1EzagdIyoMFhzRm1urmEQ--fFE0QagJM,247
-future-0.16.0.dist-info/INSTALLER,sha256=zuuue4knoyJ-UwPPXg8fezS7VCrXJQrAP7zeNuwvFQg,4
+/var/folders/ff/xjrx992j4nd9w1xy4g7lclzm0000gr/T/tmpWR1Gkm/bin/pasteurize,sha256=g_Cs28H5BM5iAawgIcxBDDRdzlaZZFA6HzOYaTpOCOM,249
+/var/folders/ff/xjrx992j4nd9w1xy4g7lclzm0000gr/T/tmpWR1Gkm/bin/futurize,sha256=sPQtEq9TtTMLcv5U4_jGfmPoORbOlqnfUwZ7cuuKeXY,247
+/var/folders/ff/xjrx992j4nd9w1xy4g7lclzm0000gr/T/tmpWR1Gkm/lib/python/future-0.16.0.dist-info/INSTALLER,sha256=zuuue4knoyJ-UwPPXg8fezS7VCrXJQrAP7zeNuwvFQg,4
 future/backports/urllib/__init__.pyc,,
 future/backports/email/encoders.pyc,,
 past/__init__.pyc,,

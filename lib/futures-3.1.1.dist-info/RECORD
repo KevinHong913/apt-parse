@@ -9,7 +9,7 @@ futures-3.1.1.dist-info/DESCRIPTION.rst,sha256=OCTuuN6LcWulhHS3d5rfjdsQtW22n7HEN
 futures-3.1.1.dist-info/metadata.json,sha256=DN4vsOXirsdvg2PnNcBVJvMJVjU80pC-d5y7GCwb-Eg,750
 futures-3.1.1.dist-info/WHEEL,sha256=54bVun1KfEBTJ68SHUmbxNPj80VxlQ0sHi4gZdGZXEY,92
 futures-3.1.1.dist-info/RECORD,,
-futures-3.1.1.dist-info/INSTALLER,sha256=zuuue4knoyJ-UwPPXg8fezS7VCrXJQrAP7zeNuwvFQg,4
+/var/folders/ff/xjrx992j4nd9w1xy4g7lclzm0000gr/T/tmpWR1Gkm/lib/python/futures-3.1.1.dist-info/INSTALLER,sha256=zuuue4knoyJ-UwPPXg8fezS7VCrXJQrAP7zeNuwvFQg,4
 concurrent/futures/thread.pyc,,
 concurrent/futures/process.pyc,,
 concurrent/__init__.pyc,,

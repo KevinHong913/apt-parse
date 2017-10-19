@@ -6,7 +6,6 @@ Home-page: https://github.com/GoogleCloudPlatform/google-cloud-python
 Author: Google Cloud Platform
 Author-email: jjg+google-cloud-python@google.com
 License: Apache 2.0
-Description-Content-Type: UNKNOWN
 Platform: Posix; MacOS X; Windows
 Classifier: Development Status :: 4 - Beta
 Classifier: Intended Audience :: Developers
@@ -18,17 +17,17 @@ Classifier: Programming Language :: Python :: 3
 Classifier: Programming Language :: Python :: 3.4
 Classifier: Programming Language :: Python :: 3.5
 Classifier: Topic :: Internet
-Requires-Dist: httplib2 (>=0.9.1)
+Requires-Dist: gapic-google-logging-v2 (>=0.9.0,<0.10dev)
+Requires-Dist: gapic-google-pubsub-v1 (>=0.9.0,<0.10dev)
+Requires-Dist: google-gax (>=0.13.0,<0.14dev)
 Requires-Dist: googleapis-common-protos
+Requires-Dist: grpc-google-logging-v2 (>=0.9.0,<0.10dev)
+Requires-Dist: grpc-google-pubsub-v1 (>=0.9.0,<0.10dev)
+Requires-Dist: grpcio (>=1.0.0)
+Requires-Dist: httplib2 (>=0.9.1)
 Requires-Dist: oauth2client (>=2.0.1)
 Requires-Dist: protobuf (>=3.0.0)
 Requires-Dist: six
-Requires-Dist: grpcio (>=1.0.0)
-Requires-Dist: google-gax (<0.14dev,>=0.13.0)
-Requires-Dist: gapic-google-pubsub-v1 (<0.10dev,>=0.9.0)
-Requires-Dist: grpc-google-pubsub-v1 (<0.10dev,>=0.9.0)
-Requires-Dist: gapic-google-logging-v2 (<0.10dev,>=0.9.0)
-Requires-Dist: grpc-google-logging-v2 (<0.10dev,>=0.9.0)
 
 Google Cloud Python Client
 ==========================

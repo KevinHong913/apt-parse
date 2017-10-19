@@ -6,7 +6,6 @@ Home-page: https://python-future.org
 Author: Ed Schofield
 Author-email: ed@pythoncharmers.com
 License: MIT
-Description-Content-Type: UNKNOWN
 Keywords: future past python3 migration futurize backport six 2to3 modernize pasteurize 3to2
 Platform: UNKNOWN
 Classifier: Programming Language :: Python

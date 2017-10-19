@@ -1,9 +1,9 @@
-gapic_google_logging_v2-0.9.3-py2.7-nspkg.pth,sha256=9p6M0jWRyFqiYyuvVD1RTeUIUo4w5o2ndm0XHyy0xHE,6044
+gapic_google_logging_v2-0.9.3-py2.7-nspkg.pth,sha256=TRZegTHRvZDEytnCJ9qPvzI4fctGK_lgUGbyEvFmK4M,1516
 gapic_google_logging_v2-0.9.3.dist-info/DESCRIPTION.rst,sha256=MNSUOMM0DWWAV48O42D1OPDrKEsiujaSik8pOQWSjQM,2310
-gapic_google_logging_v2-0.9.3.dist-info/METADATA,sha256=6yxNR-_UMZ1uLXHPQ6AdO5BYueVHROhYbGQbaX2ctRc,3178
+gapic_google_logging_v2-0.9.3.dist-info/METADATA,sha256=OcPmMxxk7fExzFD1xN3C3IaUXu6ccoLXvrz3wjFmB0g,3144
 gapic_google_logging_v2-0.9.3.dist-info/RECORD,,
-gapic_google_logging_v2-0.9.3.dist-info/WHEEL,sha256=F38j99qfcoNzHo88G-kisXWtI3MVVEd9JWjaAPcHMTc,93
-gapic_google_logging_v2-0.9.3.dist-info/metadata.json,sha256=Jm6L4r0jiK0ov5iVCMgBseb-udevxVzXCHxH4H7SUtg,1013
+gapic_google_logging_v2-0.9.3.dist-info/WHEEL,sha256=1MCSHS6HDHLQ4wIeJBIjjA5GPDLnYZX2HFlkttwBvUE,93
+gapic_google_logging_v2-0.9.3.dist-info/metadata.json,sha256=zrWW1fU_IEXtXvfJgQ51Hg_LwDbU_Vqr2gNjdFUGY1s,974
 gapic_google_logging_v2-0.9.3.dist-info/namespace_packages.txt,sha256=iEC-GscoXaFAjUaK2M65FMJraznZZd7SBjackDbGRTo,66
 gapic_google_logging_v2-0.9.3.dist-info/top_level.txt,sha256=_1QvSJIhFAGfxb79D6DhB7SUw2X6T4rwnz_LLrbcD3c,7
 google/cloud/gapic/logging/v2/__init__.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
@@ -13,7 +13,7 @@ google/cloud/gapic/logging/v2/logging_service_v2_api.py,sha256=9Yxd4exOFCcjx5lA-
 google/cloud/gapic/logging/v2/logging_service_v2_client_config.json,sha256=qvqiW9NXzKTaODoDPFlH7VkY1iQNB4ZQFSySYkv4HW4,1642
 google/cloud/gapic/logging/v2/metrics_service_v2_api.py,sha256=EgznbiL7qkbZ5XqNy-eXPtw8o9qUK-rDvmijzptdnkw,14491
 google/cloud/gapic/logging/v2/metrics_service_v2_client_config.json,sha256=c5c57NsY-20dQNTR5Bav6lZIK1KUwPFH2sM0uy-41dQ,1468
-gapic_google_logging_v2-0.9.3.dist-info/INSTALLER,sha256=zuuue4knoyJ-UwPPXg8fezS7VCrXJQrAP7zeNuwvFQg,4
+/var/folders/ff/xjrx992j4nd9w1xy4g7lclzm0000gr/T/tmpWR1Gkm/lib/python/gapic_google_logging_v2-0.9.3.dist-info/INSTALLER,sha256=zuuue4knoyJ-UwPPXg8fezS7VCrXJQrAP7zeNuwvFQg,4
 google/cloud/gapic/logging/v2/__init__.pyc,,
 google/cloud/gapic/logging/v2/metrics_service_v2_api.pyc,,
 google/cloud/gapic/logging/v2/logging_service_v2_api.pyc,,
